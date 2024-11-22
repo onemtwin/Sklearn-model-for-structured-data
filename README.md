@@ -7,13 +7,13 @@
 4. Data type --
 RangeIndex: 5000 entries, 0 to 4999
 Data columns (total 5 columns):
- #   Column   Non-Null Count  Dtype  
----  ------   --------------  -----  
- 0   initial  5000 non-null   int64  
- 1   x2       5000 non-null   int64  
- 2   add555   5000 non-null   int64  
- 3   div5     5000 non-null   float64
- 4   minus11  5000 non-null   float64
+|Column |Non-Null Count | Dtype | 
+|--- | ------ --------------|-----|  
+|0   |initial  5000 non-null| int64|  
+ |1|   |x2       5000 non-null   |int64|  
+ |2|   |add555   5000 non-null  | int64 | 
+ |3|   |div5    5000 non-null |  float64|
+ |4|   |minus11  5000 non-null|   float64|
 dtypes: float64(2), int64(3)
 ###for Column ;###
 * **initial :** ==initial
